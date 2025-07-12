@@ -493,7 +493,7 @@ export default function BioTrainingLanding() {
               />
               <span className="text-white font-bold text-xl">BIO TRAINING</span>
             </div>
-            <div className="text-gray-400 text-sm">© 2025 Bio Training.</div>
+            <div className="text-gray-400 text-sm">© 2025 Comunidad Bio Training.</div>
           </div>
         </div>
       </footer>
